@@ -1,0 +1,3 @@
+[submodule "lsb_release"]
+	path = lsb_release
+	url = https://github.com/StefanoFrazzetto/lsb_release
